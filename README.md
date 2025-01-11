@@ -1,6 +1,6 @@
 # Clear Path Project
 
-![SDAIA and Tuwaiq Academy](path/to/logo.png)
+![SDAIA and Tuwaiq Academy]([path/to/logo.png](https://github.com/HssahSaad/ClearPath/blob/main/Clear%20Path.jpg))
 
 Welcome to the *Clear Path* project repository! This repository contains all the details about the project, including its objectives, implementation, and outcomes.
 
